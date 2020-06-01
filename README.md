@@ -5,4 +5,4 @@
  1. OpenCv
  2. TensorFlow
 #  DataSet
- The dataset for the program was obatined from https://www.kaggle.com/abhikjha/utk-face-cropped
+ The original dataset for the program was obatined from https://www.kaggle.com/abhikjha/utk-face-cropped
